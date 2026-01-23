@@ -10,16 +10,16 @@ int end = range[1];
 List<int> filteredNumbers = new List<int>();
 if (condition == "even")
 {
-    filteredNumbers = FilteredOddOrEvenNumbers(start, end, n => n % 2 == 0);
+    filteredNumbers = FilteredNumbersInRange(start, end, n => n % 2 == 0);
 }
 else if (condition == "odd")
 {
-    filteredNumbers = FilteredOddOrEvenNumbers(start, end, n => n % 2 != 0);
+    filteredNumbers = FilteredNumbersInRange(start, end, n => n % 2 != 0);
 }
 
-Console.WriteLine(string.Join(' ', filteredNumbers));
+Console.WriteLine(string.Join(" ", filteredNumbers));
 
-static List<int> FilteredOddOrEvenNumbers(int start, int end, Predicate<int> predicate)
+static List<int> FilteredNumbersInRange(int start, int end, Predicate<int> predicate)
 {
     List<int> resultList = new List<int>();
     for (int i = start; i <= end; i++)

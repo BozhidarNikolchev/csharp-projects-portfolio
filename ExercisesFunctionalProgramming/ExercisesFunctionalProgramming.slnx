@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="ActionPrint/ActionPrint.csproj" />
+  <Project Path="AppliedArithmetics/AppliedArithmetics.csproj" Id="fd3a6670-13b5-4a3c-b55c-f88eacf5e1f0" />
   <Project Path="CustomMinFunction/CustomMinFunction.csproj" />
   <Project Path="FindEvensOrOdds/FindEvensOrOdds.csproj" />
   <Project Path="KnightsOfHonor/KnightsOfHonor.csproj" />
