@@ -4,4 +4,6 @@
   <Project Path="CustomMinFunction/CustomMinFunction.csproj" />
   <Project Path="FindEvensOrOdds/FindEvensOrOdds.csproj" />
   <Project Path="KnightsOfHonor/KnightsOfHonor.csproj" />
+  <Project Path="PredicateForNames/PredicateForNames.csproj" Id="5820d870-6acd-4244-a874-c919a831d2ab" />
+  <Project Path="ReverseAndExclude/ReverseAndExclude.csproj" Id="13ae2d19-4d14-43c8-8215-1ba3afb1f616" />
 </Solution>

@@ -3,6 +3,14 @@
     .Select(int.Parse)
     .ToArray();
 
+//Dictionary<string, Action<int[]>> operationByCommand = new()
+//{
+//    ["add"] = arr => PerformMathOperation(arr, n => n + 1),
+//    ["multiply"] = arr => PerformMathOperation(arr, n => n * 2),
+//    ["subtract"] = arr => PerformMathOperation(arr, n => n - 1),
+//    ["print"] = arr => Console.WriteLine(string.Join(" ", arr))
+//};
+
 string command = string.Empty;
 while ((command = Console.ReadLine()) != "end")
 {
