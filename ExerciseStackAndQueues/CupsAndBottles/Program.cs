@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int[] cupsCapacity = Console.ReadLine()
+    .Split()
+    .Select(int.Parse)
+    .ToArray();
+
+int[] filledBottles = Console.ReadLine()
+    .Split()
+    .Select(int.Parse)
+    .ToArray();
+
+
+
