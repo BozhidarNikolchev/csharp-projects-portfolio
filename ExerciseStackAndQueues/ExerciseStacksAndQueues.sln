@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113
+# Visual Studio Version 18
+VisualStudioVersion = 18.5.11801.241 oobstable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicStackOperations", "BasicStackOperations\BasicStackOperations.csproj", "{E3BCFE99-56D1-4195-BFD9-44AA57C5ECBA}"
 EndProject
@@ -24,6 +24,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{6B68C92D-CF13-4C7A-B5F9-C4A797BC07FE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTextEditor", "SimpleTextEditor\SimpleTextEditor.csproj", "{DF9FB657-160F-4120-8CF7-CE26EB8135B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crossroads", "Crossroads\Crossroads.csproj", "{2561AC2E-9D0E-47A6-B473-FDE561A12DD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,8 +77,15 @@ Global
 		{DF9FB657-160F-4120-8CF7-CE26EB8135B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF9FB657-160F-4120-8CF7-CE26EB8135B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF9FB657-160F-4120-8CF7-CE26EB8135B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2561AC2E-9D0E-47A6-B473-FDE561A12DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2561AC2E-9D0E-47A6-B473-FDE561A12DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2561AC2E-9D0E-47A6-B473-FDE561A12DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2561AC2E-9D0E-47A6-B473-FDE561A12DD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {752277CA-C71C-4CE6-8DC9-E9FAB113DA76}
 	EndGlobalSection
 EndGlobal
