@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTextEditor", "SimpleT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crossroads", "Crossroads\Crossroads.csproj", "{2561AC2E-9D0E-47A6-B473-FDE561A12DD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CupsAndBottles", "CupsAndBottles\CupsAndBottles.csproj", "{89D88101-FAC8-4F09-BCC2-7E0CD324A271}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{2561AC2E-9D0E-47A6-B473-FDE561A12DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2561AC2E-9D0E-47A6-B473-FDE561A12DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2561AC2E-9D0E-47A6-B473-FDE561A12DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D88101-FAC8-4F09-BCC2-7E0CD324A271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D88101-FAC8-4F09-BCC2-7E0CD324A271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D88101-FAC8-4F09-BCC2-7E0CD324A271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D88101-FAC8-4F09-BCC2-7E0CD324A271}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
