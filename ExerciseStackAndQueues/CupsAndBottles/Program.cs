@@ -30,14 +30,14 @@ while (queueOfCups.Count > 0 && stackOfBottles.Count > 0)
         wastedLitres += Math.Abs(currentCup);
         queueOfCups.Dequeue();
     }
-    
+
 }
 
 if (!queueOfCups.Any())
 {
     Console.Write("Bottles: ");
     Console.WriteLine(string.Join(" ", stackOfBottles));
-    Console.WriteLine($"Wasted littres of water: {wastedLitres}");
+    Console.WriteLine($"Wasted litters of water: {wastedLitres}");
 }
 
 
@@ -45,7 +45,7 @@ if (queueOfCups.Any())
 {
     Console.Write("Cups: ");
     Console.WriteLine(string.Join(" ", queueOfCups));
-    Console.WriteLine($"Wasted littres of water: {wastedLitres}");
+    Console.WriteLine($"Wasted litters of water: {wastedLitres}");
 }
 
 
