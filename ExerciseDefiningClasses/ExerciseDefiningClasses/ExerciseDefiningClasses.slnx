@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ExerciseDefiningClasses/ExerciseDefiningClasses.csproj" />
+  <Project Path="OpinionPoll/OpinionPoll.csproj" Id="38009564-088d-4dd6-8ea1-a5ad8e37e3c8" />
+  <Project Path="SpeedRacing/SpeedRacing.csproj" Id="738ee0a2-c6a7-436c-ae69-ee2445bd0968" />
+</Solution>
