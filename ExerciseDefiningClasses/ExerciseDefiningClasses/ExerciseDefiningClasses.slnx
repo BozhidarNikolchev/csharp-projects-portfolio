@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="DateModifier/DateModifier.csproj" Id="7ed341b5-c452-457f-9d86-071b8c8289d3" />
   <Project Path="ExerciseDefiningClasses/ExerciseDefiningClasses.csproj" />
   <Project Path="OpinionPoll/OpinionPoll.csproj" Id="38009564-088d-4dd6-8ea1-a5ad8e37e3c8" />
   <Project Path="SpeedRacing/SpeedRacing.csproj" Id="738ee0a2-c6a7-436c-ae69-ee2445bd0968" />
